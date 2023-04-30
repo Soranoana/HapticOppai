@@ -74,3 +74,6 @@ crashlytics-build.properties
 
 # 以下はコミットするとまずいフォルダ
 /Assets/VRMObject
+
+# office関連
+~$*
